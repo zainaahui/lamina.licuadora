@@ -35,7 +35,7 @@ ENTRADAS                                                       SALIDAS
 
 ## 🖼 Lámina Visual del Sistema
 
-El proyecto cuenta con una infografía/lámina técnica representativa:
+El proyecto cuenta con una infografía/lámina técnica representativa
 
 
 ## ⚙ Desglose Detallado de Interfaces
