@@ -37,12 +37,6 @@ ENTRADAS                                                       SALIDAS
 
 El proyecto cuenta con una infografía/lámina técnica representativa:
 
-| Vista Previa de la Lámina Técnica |
-| :---: |
-| ![Lámina Interfaces Licuadora](docs/assets/lamina_interfaces_licuadora.jpg) |
-| *Figura 1: Mapeo de Interfaces de Entrada y Salida (Mecánicas, Eléctricas, Térmicas y Operativas).* |
-
----
 
 ## ⚙ Desglose Detallado de Interfaces
 
